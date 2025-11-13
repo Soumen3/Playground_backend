@@ -62,7 +62,7 @@ A secure FastAPI backend server that executes Python code in a sandboxed environ
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Soumen3/Playground_backend.git
    cd Playground_backend
    ```
 
